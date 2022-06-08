@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078095231244",
+    "project_id": "andrewapp-350601",
+    "storage_bucket": "andrewapp-350601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078095231244:android:efb731b1ef3aa001b6b129",
+        "android_client_info": {
+          "package_name": "com.example.andrewapp_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078095231244-hv383uchvtpq51igvg2v4juhk26d7rs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzJo4V14wDXzIbnbrvmwdedY5VgoAO6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078095231244-hv383uchvtpq51igvg2v4juhk26d7rs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
